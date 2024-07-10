@@ -2,9 +2,15 @@
 
 This repo is to build a font-end demo with tiktok like system . base on telegram webapp . 
 
-Add TON chain payment 
+- Add TON chain payment 
 
-Add Tonshive for auto hive during the videos.
+- Add Tonshive for auto hive during the videos.
+
+### TODO
+
+- Add Tonspack-wallet support
+
+- Storage all file into IPFS
 
 ## Origin README
 
